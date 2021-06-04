@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acompanhamento de Vida</title>
+      <link>http://example.org/post/2021-06-04-acompanhamento-de-vida/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2021-06-04-acompanhamento-de-vida/</guid>
+      <description>MétodoEu usei um método chamado Experience Sampling Method. Basicamente, eu me apliquei um questionário quatro vezes ao dia. A maioria das perguntas eram as mesmas, mas tinham algumas que eu só fazia no primeiro teste (de manhã) e no último teste (de noite).
+GráficosQual o nível geral de energia agora?Com esta pergunta eu queria testar se encontraria uma baixa durante uma semana e uma alta nas demais.</description>
+    </item>
+    
+  </channel>
+</rss>
